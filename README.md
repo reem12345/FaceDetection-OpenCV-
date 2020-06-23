@@ -1,2 +1,2 @@
-# FaceDetection-OpenCV-
-Face Detection task in the summer training program of smart methods company in Saudi Arabia
+# Face Recognition
+Face Recognition task implemented on Google colab using openCV cascade detector, faceNet pre-train model, and SVM classifier.
